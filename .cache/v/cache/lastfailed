@@ -1,0 +1,4 @@
+{
+  "tests/test_calc.py": true,
+  "tests/test_say.py": true
+}
